@@ -30,17 +30,17 @@ class Bank{
         System.out.println("Branch Name\t\t:\t\t"            + acc1.branchName);
         System.out.println("IFSC code\t\t:\t\t"              + acc1.ifscCode);
         System.out.println("Account Number\t\t:\t\t"         + acc1.accNumber);
-        System.out.println("Account holder name\t:\t\t"    + acc1.accHName);
-        System.out.println("Balnace available\t:\t\t"      + acc1.balance);
+        System.out.println("Account holder name\t:\t\t"      + acc1.accHName);
+        System.out.println("Balnace available\t:\t\t"        + acc1.balance);
         
         System.out.println();
         System.out.println("Account 2 information");
         System.out.println("Bank Name\t\t:\t\t"               + acc2.bankName);
         System.out.println("Branch Name\t\t:\t\t"             + acc2.branchName);
         System.out.println("IFSC code\t\t:\t\t"               + acc2.ifscCode);
-        System.out.println("Account Number\t\t:\t\t"          + acc1.accNumber);
-        System.out.println("Account holder name\t:\t\t"     + acc1.accHName);
-        System.out.println("Balnace available\t:\t\t"       + acc1.balance);
+        System.out.println("Account Number\t\t:\t\t"          + acc2.accNumber);
+        System.out.println("Account holder name\t:\t\t"       + acc2.accHName);
+        System.out.println("Balnace available\t:\t\t"         + acc2.balance);
 
 
     }
